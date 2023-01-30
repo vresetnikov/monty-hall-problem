@@ -1,4 +1,4 @@
-# monty-hall-problem
+# Monty Hall Problem
 https://en.wikipedia.org/wiki/Monty_Hall_problem
 
 In media:
